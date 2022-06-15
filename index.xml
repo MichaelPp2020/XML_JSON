@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<estudiantes>
+    <identificador id="1">
+    <titulo> <h1> Alumno 1</h1> </titulo>
+   <br> <apellidos>PALACIOS PINCAY </apellidos><br>
+   <br> <nombres> MICHAEL JAVIER  </nombres><br>
+    <br><semestre>Quinto</semestre><br>
+   <br> <direcion>Divino Niño</direcion><br>
+   <br> <telefono>09688227741</telefono><br>
+   <br> <correo>e1316893161@live.uleam.edu.ec</correo><br>
+   </identificador>
+
+
+   <identificador id="2">
+   <titulo> <h1> Alumno 2</h1> </titulo>
+    
+   <br> <apellidos> MOREIRA CEDEÑO  </apellidos><br>
+   <br> <nombres> JOSUHE EMILIANO</nombres><br>
+    <br><semestre>Quinto</semestre><br>
+   <br> <direcion>Urbirrios</direcion><br>
+   <br> <telefono>09688227741</telefono><br>
+   <br> <correo>e1316863859@live.uleam.edu.ec</correo><br>
+      </identificador>
+
+
+<identificador id="3">
+    <titulo> <h1> Alumno 3</h1> </titulo>
+    <br> <apellidos>LOPEZ BAILON  </apellidos><br>
+    <br> <nombres> LUIS DAVID </nombres><br>
+     <br><semestre>Quinto</semestre><br>
+    <br> <direcion>Los Esteros</direcion><br>
+    <br> <telefono>09688227741</telefono><br>
+    <br> <correo>e1314745835@live.uleam.edu.ec</correo><br>
+    </identificador>
+
+ <identificador id="4">
+    <titulo> <h1> Alumno 4</h1> </titulo>
+    <br> <apellidos>PARRALES SOLORZANO </apellidos><br>
+    <br> <nombres> CRISTHINA MICHELL </nombres><br>
+     <br><semestre>Quinto</semestre><br>
+    <br> <direcion>Los Esteros</direcion><br>
+    <br> <telefono>09688227741</telefono><br>
+    <br> <correo>e1317740528@live.uleam.edu.ec</correo><br>
+   </identificador>
+
+    <identificador id="5">
+    <titulo> <h1> Alumno 5</h1> </titulo>
+    <br> <apellidos>ESPINOZA SOLEDISPA  </apellidos><br>
+    <br> <nombres> 	EDWARD ANGELO </nombres><br>
+     <br><semestre>Quinto</semestre><br>
+    <br> <direcion>Los Esteros</direcion><br>
+    <br> <telefono>09688227741</telefono><br>
+    <br> <correo>e1314683010@live.uleam.edu.ec</correo><br>
+    </identificador>
+
+ <identificador id="6">
+ <titulo> <h1> Alumno 6</h1> </titulo>
+ <br> <apellidos>PACHECO MACIAS  </apellidos><br>
+ <br> <nombres> ANGEL GABRIEL </nombres><br>
+  <br><semestre>Quinto</semestre><br>
+ <br> <direcion>Los Esteros</direcion><br>
+ <br> <telefono>09688227741</telefono><br>
+ <br> <correo>e1316661030@live.uleam.edu.ec</correo><br>
+   </identificador>
+
+<identificador id="7">
+ <titulo> <h1> Alumno 7</h1> </titulo>
+ <br> <apellidos>MURILLO LAJE  </apellidos><br>
+ <br> <nombres> NAUN POLICARPO </nombres><br>
+  <br><semestre>Quinto</semestre><br>
+ <br> <direcion>Los Esteros</direcion><br>
+ <br> <telefono>09688227741</telefono><br>
+ <br> <correo>e1315597433@live.uleam.edu.ec</correo><br>
+   </identificador>
+
+<identificador id="8">
+ <titulo> <h1> Alumno 8</h1> </titulo>
+ <br> <apellidos> OVIEDO INSUASTI  </apellidos><br>
+ <br> <nombres>	DAYANA SAMANTHA </nombres><br>
+  <br><semestre>Quinto</semestre><br>
+ <br> <direcion>Los Esteros</direcion><br>
+ <br> <telefono>09688227741</telefono><br>
+ <br> <correo>e1722362108@live.uleam.edu.ec</correo><br>
+   </identificador>
+
+<identificador id="9">
+    <titulo> <h1> Alumno 9</h1> </titulo>
+    <br> <apellidos>CIFUENTES CASTRO  </apellidos><br>
+    <br> <nombres> 	IRVIN GUSTAVO </nombres><br>
+     <br><semestre>Quinto</semestre><br>
+    <br> <direcion>Los Esteros</direcion><br>
+    <br> <telefono>09688227741</telefono><br>
+    <br> <correo>e1313465153@live.uleam.edu.ec</correo><br>
+     </identificador>
+
+   <identificador id="10">
+    <titulo> <h1> Alumno 10</h1> </titulo>
+    <br> <apellidos>CRESPO PACHAY  </apellidos><br>
+    <br> <nombres> 	JEAN CARLOS </nombres><br>
+     <br><semestre>Quinto</semestre><br>
+    <br> <direcion>Los Esteros</direcion><br>
+    <br> <telefono>09688227741</telefono><br>
+    <br> <correo>e1317047445@live.uleam.edu.ec</correo><br>
+      </identificador>
+
+</estudiantes>
+
+
+
+
